@@ -127,9 +127,9 @@ s2 = """The easiest way to earn points with Fetch Rewards is to just shop for th
 
 s3 = """We are always looking for opportunities for you to earn more points, which is why we also give you a selection of Special Offers. These Special Offers are opportunities to earn bonus points on top of the regular points you earn every time you purchase a participating brand. No need to pre-select these offers, we'll give you the points whether or not you knew about the offer. We just think it is easier that way."""
 
-s4 = """"""
+s4 = """more sample"""
 
-s5 = """"""
+s5 = """another sample"""
 
 phrases = [s1,s2,s3,s4,s5]
 
